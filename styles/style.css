@@ -137,7 +137,7 @@
 .card__content-wrapper {
   display: flex;
   flex-direction: column;
-  gap: 23px;
+  gap: 25px;
   padding-inline: 25px;
   padding-block: 21px;
 }
